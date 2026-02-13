@@ -4,22 +4,22 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/mariamgaballa" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  🎧 كودينغ وبسمع :   </summary> </strong></p>
+<p><strong> <summary>  🎧 Coding & Vibing to :   </summary> </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/mariamgaballa) <be>
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mariamgaballa&style=flat&color=ff69b4&label=✨+زيارات+البروفايل)
+![Profile Views](https://komarev.com/ghpvc/?username=mariamgaballa&style=flat&color=ff69b4&label=✨+PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmariamgaballa&count_bg=%23E75480&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/مريم_جاب_الله-grey?style=flat&logo=telegram&logoColor=white&color=ff69b4)](https://t.me/mariamgaballa) <br>
+[![telegram badge](https://img.shields.io/badge/Mariam_Gaballah-grey?style=flat&logo=telegram&logoColor=white&color=ff69b4)](https://t.me/mariamgaballa) <br>
 </div>
 
 <hr></hr>
 
-## 🚀 الأدوات اللي بستخدمها
+## 🚀 Tools I Use
 
-![tools_I_use](https://img.shields.io/badge/-⚡%20أدواتي%20المفضلة-ff69b4)
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-ff69b4)
 ![semicolon](https://img.shields.io/badge/-:-ff69b4)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -36,27 +36,27 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 
 ```python
-# من أنا؟
+# whoami?
 
 class MariamGaballah:
     def __init__(self):
-        self.name = "مريم جاب الله"
-        self.location = "الإسكندرية، مصر 🇪🇬"
-        self.education = "طالبة ثانوية عامة"
-        self.interests = ["الذكاء الاصطناعي", "علم البيانات", "تطوير الويب"]
-        self.hobbies = ["الفن الرقمي", "مونتاج فيديو", "الرسم على الزجاج"]
+        self.name = "Mariam Gaballah"
+        self.location = "Alexandria, Egypt 🇪🇬"
+        self.education = "High School Student"
+        self.interests = ["Artificial Intelligence", "Data Science", "Web Development"]
+        self.hobbies = ["Digital Art", "Video Editing", "Glass Painting"]
         
     def current_focus(self):
         return {
             "learning": ["Web Development", "Python", "AI/ML"],
-            "initiatives": ["DECI - 5 سنوات", "Digitopia", "بصمة أثر"],
-            "goal": "بناء مستقبل في التكنولوجيا والابتكار"
+            "initiatives": ["DECI - 5 years", "Digitopia", "Basmat Athar"],
+            "goal": "Building a future in tech and innovation"
         }
     
     def languages(self):
         return {
-            "العربية": "اللغة الأم",
-            "الإنجليزية": "متقدم (كتابة وتواصل)"
+            "Arabic": "Native",
+            "English": "Proficient (Writing & Communication)"
         }
 
-# شغوفة بتعلم كل جديد في عالم البرمجة والتكنولوجيا ✨
+# Passionate about learning everything in programming and tech ✨
