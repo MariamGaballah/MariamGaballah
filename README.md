@@ -1,62 +1,66 @@
-<div align="center" width="50">
+<h1 align="center">Hi, I'm Mariam Gaballah 👋</h1>
+<h3 align="center">AI Engineer | Web Developer | Building Intelligent Web Experiences</h3>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/mariamgaballa" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/mariamgaballa" alt="Workspace"  width="40%"/><br> 
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=ff69b4" />
+  </a>
+</p>
 
-<details>
-<p><strong> <summary>  🎧 Coding & Vibing to :   </summary> </strong></p>
+---
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/mariamgaballa) <be>
+## 👩‍💻 About Me
 
-</details>
+I'm an AI-focused Web Developer passionate about building intelligent, scalable, and user-centered applications.  
+I enjoy blending Artificial Intelligence with modern web technologies to create impactful digital solutions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=mariamgaballa&style=flat&color=ff69b4&label=✨+PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmariamgaballa&count_bg=%23E75480&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Mariam_Gaballah-grey?style=flat&logo=telegram&logoColor=white&color=ff69b4)](https://t.me/mariamgaballa) <br>
-</div>
+- 🔬 Currently diving deeper into **Machine Learning & LLM applications**
+- 🌐 Building full-stack AI-powered web apps
+- 🎯 Focused on clean architecture & scalable systems
+- 💡 Always learning, always building
 
-<hr></hr>
+---
 
-## 🚀 Tools I Use
+## 🚀 Tech Stack
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-ff69b4)
-![semicolon](https://img.shields.io/badge/-:-ff69b4)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+### 💻 Programming & AI
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-```python
-# whoami?
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
 
-class MariamGaballah:
-    def __init__(self):
-        self.name = "Mariam Gaballah"
-        self.location = "Alexandria, Egypt 🇪🇬"
-        self.education = "High School Student"
-        self.interests = ["Artificial Intelligence", "Data Science", "Web Development"]
-        self.hobbies = ["Digital Art", "Video Editing", "Glass Painting"]
-        
-    def current_focus(self):
-        return {
-            "learning": ["Web Development", "Python", "AI/ML"],
-            "initiatives": ["DECI - 5 years", "Digitopia", "Basmat Athar"],
-            "goal": "Building a future in tech and innovation"
-        }
-    
-    def languages(self):
-        return {
-            "Arabic": "Native",
-            "English": "Proficient (Writing & Communication)"
-        }
+### 🧠 AI & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge)
 
-# Passionate about learning everything in programming and tech ✨
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
+- 📧 Email: your.email@example.com
+- 🌐 Portfolio: https://your-portfolio.com
+
+---
+
+> "Turning ideas into intelligent digital products."
