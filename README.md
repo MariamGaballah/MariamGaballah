@@ -2,9 +2,7 @@
 <h3 align="center">AI Engineer | Web Developer | Building Intelligent Web Experiences</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=ff69b4" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=ff69b4" />
 </p>
 
 ---
@@ -55,11 +53,10 @@ I enjoy blending Artificial Intelligence with modern web technologies to create 
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: https://your-portfolio.com
+- 📧 Email: **mariamgaballa.mg@gmail.com**
+- 🌐 Portfolio: https://mostafa-ashraf799.github.io/Profile-mariam/
 
 ---
 
