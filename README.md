@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mariam Gaballah 👋</h1>
+<h1 align="center">Mariam Gaballah 👋</h1>
 <h3 align="center">AI Engineer | Web Developer | Building Intelligent Web Experiences</h3>
 
 <p align="center">
