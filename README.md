@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Web Developer | Building Intelligent Web Experiences</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=ff69b4" />
+  <img src="https://komarev.com/ghpvc/?username=MariamGaballah&style=flat-square&color=ff69b4" />
 </p>
 
 ---
@@ -47,8 +47,8 @@ I enjoy blending Artificial Intelligence with modern web technologies to create 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MariamGaballah&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MariamGaballah&theme=transparent&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -56,7 +56,7 @@ I enjoy blending Artificial Intelligence with modern web technologies to create 
 ## 🌍 Contact
 
 - 📧 Email: **mariamgaballa.mg@gmail.com**
-- 🌐 Portfolio: https://mostafa-ashraf799.github.io/Profile-mariam/
+- 🌐 Portfolio: [https://mariamgaballah.github.io/profile/](https://mariamgaballah.github.io/profile/)
 
 ---
 
